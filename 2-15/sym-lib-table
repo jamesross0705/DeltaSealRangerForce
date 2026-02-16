@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS2421-2")(type "KiCad")(uri "C:/Users/btyle_7yoreb7/Downloads/ul_TPS2421-2DDAR/KiCADv6/2026-02-15_01-06-14.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC4353")(type "KiCad")(uri "C:/Users/btyle_7yoreb7/Downloads/ul_LTC4353IMS-PBF/KiCADv6/2026-02-15_02-56-00.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS56921PWP")(type "KiCad")(uri "C:/Users/btyle_7yoreb7/Downloads/ul_TPS56921PWPR/KiCADv6/2026-02-15_03-58-14.kicad_sym")(options "")(descr ""))
+)
